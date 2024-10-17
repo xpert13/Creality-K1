@@ -14,8 +14,7 @@ Look at the changes at 2pin-fans-mode branch
 
 ## Custom extruder useful info
 
-After changes in printer.cfg you need to exclude 4 mm from printing bed area in a slicer. For OrcaSlicer you need to change "Excluded bed area" param to `0x0, 220x0, 220x4, 0x4`.
-Also you need to calibrate [extruder rotation distance](https://3dua.info/tutorials/article/7-kalibrovka-ekstrudera-na-prodavleniy-plastik-klipper/).
+Use the calibrate [extruder rotation distance instruction](https://3dua.info/tutorials/article/7-kalibrovka-ekstrudera-na-prodavleniy-plastik-klipper/) for proper work of the new extruder.
 
 ## Bed size
 
