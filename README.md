@@ -8,6 +8,7 @@ My files for Creality K1 printer
 - [Anarhyst266's K1 configs](https://github.com/Anarhyst266/k1_conf)
 - [Custom extruder](https://www.printables.com/model/669504-artis3d-feeder-type-mk-for-creality-k1k1max/collections)
 - [Cartographer K1](https://github.com/K1-Klipper/cartographer-klipper)
+- [KAMP: Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
 ## Using 2 pin fans
 
